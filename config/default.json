@@ -1,0 +1,4 @@
+{"port":5000,
+"mongoURI":"mongodb+srv://link_app:braolgaas@cluster0.dimtjn7.mongodb.net/app?retryWrites=true&w=majority",
+"jwtSecret":"hsfjkhfekasjfdfhkdsjgdzxtydsfg321rt6dhhr6tr54ggd"
+}
